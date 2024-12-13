@@ -49,4 +49,4 @@ history = model.fit(
     callbacks=[checkpoint]
 )
 
-print("Training complete. Model saved as 'asl_cnn_model.h5'.")
+print("Training complete. Model saved as 'asl_cnn_model.keras'.")
