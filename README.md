@@ -15,6 +15,8 @@ Before running the project, you must download the dataset from the following lin
 
 ASL Dataset: "https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data"
 
+code : "https://github.com/ShahanMalik/ASL-detection"
+
 After downloading, extract the dataset to a folder on your local machine.
 
 Setup
